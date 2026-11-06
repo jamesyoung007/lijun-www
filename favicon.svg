@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Lijun">
-  <rect width="48" height="48" rx="8" fill="#1d2a44"/>
-  <path d="M16 9 V33 H33" fill="none" stroke="#fff" stroke-width="5.5" stroke-linejoin="miter"/>
-  <path d="M16 41 H34" fill="none" stroke="#b08537" stroke-width="2" stroke-dasharray="3 2.4" stroke-linecap="butt"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48"><rect width="48" height="48" rx="9" fill="#1d2a44"/><path d="M22.28 32.25L22.28 35L11.42 35L11.42 15.39L14.67 15.39L14.67 32.25L22.28 32.25M27.36 21L27.36 34.41Q27.36 37.86 25.91 39.72Q24.46 41.59 21.77 41.59Q20.77 41.59 19.83 41.15L19.83 38.43Q20.72 39.05 21.51 39.05Q24.19 39.05 24.19 34.32L24.19 21L27.36 21M25.80 18.06Q25.02 18.06 24.47 17.55Q23.92 17.05 23.92 16.27Q23.92 15.49 24.47 14.97Q25.02 14.45 25.80 14.45Q26.60 14.45 27.16 14.97Q27.72 15.49 27.72 16.27Q27.72 17.01 27.16 17.53Q26.60 18.06 25.80 18.06" fill="#fff"/><path d="M10 43 H38" stroke="#b08537" stroke-width="2" stroke-dasharray="3 2.4"/></svg>
