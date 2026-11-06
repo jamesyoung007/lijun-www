@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Lijun">
+  <rect width="48" height="48" rx="8" fill="#1d2a44"/>
+  <path d="M16 9 V33 H33" fill="none" stroke="#fff" stroke-width="5.5" stroke-linejoin="miter"/>
+  <path d="M16 41 H34" fill="none" stroke="#b08537" stroke-width="2" stroke-dasharray="3 2.4" stroke-linecap="butt"/>
+</svg>
